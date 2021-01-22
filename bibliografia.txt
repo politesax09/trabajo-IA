@@ -1,0 +1,22 @@
+ 
+Analisis de audio con python:
+
+https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d
+
+https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html
+
+https://ccrma.stanford.edu/~unjung/AIR/KEAMS.pdf
+
+
+Analisis caracteristicas de audio, de todo y datasets:
+
+https://www.audiocontentanalysis.org/
+
+
+Datasets a traves de la pagina anterior:
+
+https://github.com/mdeff/fma
+
+https://github.com/GiantSteps/giantsteps-key-dataset
+
+http://marsyas.info/downloads/datasets.html

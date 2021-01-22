@@ -1,0 +1,4 @@
+Interprete de Python:   python3.9.1
+Librerias necesarias:   numpy, scipy, matplotlib, pyACA
+                        /datasets/fma/requirements.txt
+Pauetes linux:  sox
